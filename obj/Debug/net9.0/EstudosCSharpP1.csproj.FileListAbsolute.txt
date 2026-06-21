@@ -1,0 +1,14 @@
+C:\Users\laila\Desktop\EstudosCSharpP1\obj\Debug\net9.0\EstudosCSharpP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laila\Desktop\EstudosCSharpP1\obj\Debug\net9.0\EstudosCSharpP1.AssemblyInfoInputs.cache
+C:\Users\laila\Desktop\EstudosCSharpP1\obj\Debug\net9.0\EstudosCSharpP1.AssemblyInfo.cs
+C:\Users\laila\Desktop\EstudosCSharpP1\obj\Debug\net9.0\EstudosCSharpP1.csproj.CoreCompileInputs.cache
+C:\Users\laila\Desktop\EstudosCSharpP1\bin\Debug\net9.0\EstudosCSharpP1.exe
+C:\Users\laila\Desktop\EstudosCSharpP1\bin\Debug\net9.0\EstudosCSharpP1.deps.json
+C:\Users\laila\Desktop\EstudosCSharpP1\bin\Debug\net9.0\EstudosCSharpP1.runtimeconfig.json
+C:\Users\laila\Desktop\EstudosCSharpP1\bin\Debug\net9.0\EstudosCSharpP1.dll
+C:\Users\laila\Desktop\EstudosCSharpP1\bin\Debug\net9.0\EstudosCSharpP1.pdb
+C:\Users\laila\Desktop\EstudosCSharpP1\obj\Debug\net9.0\EstudosCSharpP1.dll
+C:\Users\laila\Desktop\EstudosCSharpP1\obj\Debug\net9.0\refint\EstudosCSharpP1.dll
+C:\Users\laila\Desktop\EstudosCSharpP1\obj\Debug\net9.0\EstudosCSharpP1.pdb
+C:\Users\laila\Desktop\EstudosCSharpP1\obj\Debug\net9.0\EstudosCSharpP1.genruntimeconfig.cache
+C:\Users\laila\Desktop\EstudosCSharpP1\obj\Debug\net9.0\ref\EstudosCSharpP1.dll
